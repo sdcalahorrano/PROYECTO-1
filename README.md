@@ -1,10 +1,10 @@
 # PROYECTO 1
 
--Aguirre Johan
+- Aguirre Johan
 
--Calahorrano Sarahi
+- Calahorrano Sarahi
 
--Lara Melany
+- Lara Melany
 
 1. OBEJTIVOS
 
@@ -111,4 +111,3 @@
     - Practica “El Potenciómetro.” (2022). 1library.co. https://1library.co/document/zlvl80gy-practica-el-potenciometro.html 
     - Ingenieria MecaFenix. (2022). ¿Qué es una fotorresistencia.?  Recuperado de: https://www.ingmecafenix.com/automatizacion/fotoresistencia/ 
     - Arduino – UAEH. (2021). Sensores. Recuperado de: http://ceca.uaeh.edu.mx/informatica/oas_final/OA4/sensores.html 
-
